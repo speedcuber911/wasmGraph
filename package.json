@@ -1,0 +1,10 @@
+{
+  "name": "wasmGraph",
+  "version": "1.0.0",
+  "description": "A bench mark for FloydWarshall on JS and Wasm",
+  "main": "index.js",
+  "author": "parikshit",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
